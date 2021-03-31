@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Account
+comment1.params=theAccountNumber\ thePIN\ theAvailableBalance\ theTotalBalance\ freezeCount
+comment1.target=Account(int,\ int,\ double,\ double,\ int)
+comment2.params=userPIN
+comment2.target=boolean\ validatePIN(int)
+comment3.params=
+comment3.target=boolean\ freezeOrnot()
+comment4.params=
+comment4.target=void\ freezePunish()
+comment5.params=
+comment5.target=double\ getAvailableBalance()
+comment6.params=
+comment6.target=double\ getTotalBalance()
+comment7.params=amount
+comment7.target=void\ credit(double)
+comment8.params=amount
+comment8.target=void\ debit(double)
+comment9.params=
+comment9.target=int\ getAccountNumber()
+numComments=10
